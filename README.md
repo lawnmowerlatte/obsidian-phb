@@ -1,6 +1,6 @@
-# Obsidian Atom
+# Obsidian PHB
 
-A theme for Obsidian based on Atom's One Dark and One Light themes.
+A theme for Obsidian based on the world's greatest role-playing game.
 
 ![Screenshot](screenshot-hybrid.png)
 
